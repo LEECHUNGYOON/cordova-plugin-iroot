@@ -1,3 +1,27 @@
+
+루팅 체크하는 플러그인
+==================================================
+
+기존 앱에 설치된 플러그인 중, `cordova-plugin-apkupdater` 가 설치되어 있으면 충돌남!
+
+## `cordova-plugin-apkupdater` 플러그인이 설치 되어 있는 경우
+
+```bash
+cordova plugin add https://github.com/LEECHUNGYOON/cordova-plugin-iroot.git#3.1.1
+```
+
+## `cordova-plugin-apkupdater` 플러그인이 설치 되어 있지 않은 경우
+
+```bash
+cordova plugin add https://github.com/LEECHUNGYOON/cordova-plugin-iroot.git
+```
+<br>
+<br>
+<br>
+<br>
+
+
+
 ![version][version-shield]
 [![Android][android-shield]][cordova-android-link]
 [![iOS][ios-shield]][cordova-ios-link]
