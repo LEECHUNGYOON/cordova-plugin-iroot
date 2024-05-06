@@ -15,10 +15,10 @@ cordova plugin add https://github.com/LEECHUNGYOON/cordova-plugin-iroot.git#3.1.
 ```bash
 cordova plugin add https://github.com/LEECHUNGYOON/cordova-plugin-iroot.git
 ```
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 
